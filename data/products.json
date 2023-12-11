@@ -1,0 +1,354 @@
+[
+  {
+    "name": "UltraHD 4K Smart TV",
+    "description": "55-inch 4K UHD Smart LED TV with HDR10 and Alexa Compatibility",
+    "price": 499.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Bluetooth Wireless Headphones",
+    "description": "Noise Cancelling Over-Ear Headphones with Microphone and Touch Control",
+    "price": 129.99,
+    "category": "Electronics",
+    "rating": 4.3,
+    "inStock": false
+  },
+  {
+    "name": "Portable External Hard Drive",
+    "description": "2TB USB 3.0 Portable External Hard Drive for File Backup",
+    "price": 79.99,
+    "category": "Computer Accessories",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "name": "Ergonomic Wireless Mouse",
+    "description": "Bluetooth Ergonomic Mouse with Adjustable DPI and Rechargeable Battery",
+    "price": 35.99,
+    "category": "Computer Accessories",
+    "rating": 4.2,
+    "inStock": true
+  },
+  {
+    "name": "Smartphone with Dual Camera",
+    "description": "Latest model 128GB Smartphone with 48MP Dual Camera and OLED Display",
+    "price": 699.99,
+    "category": "Mobile Phones",
+    "rating": 4.6,
+    "inStock": false
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Qi-Certified Wireless Charger for Smartphones",
+    "price": 24.99,
+    "category": "Electronics",
+    "rating": 4.0,
+    "inStock": true
+  },
+  {
+    "name": "Gaming Laptop",
+    "description": "15.6-inch Gaming Laptop with NVIDIA GeForce RTX Graphics",
+    "price": 1299.99,
+    "category": "Computers",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "name": "Fitness Tracker Watch",
+    "description": "Waterproof Fitness Tracker Watch with Heart Rate Monitor",
+    "price": 49.99,
+    "category": "Wearables",
+    "rating": 4.4,
+    "inStock": false
+  },
+  {
+    "name": "4K Gaming Monitor",
+    "description": "27-inch 4K Gaming Monitor with HDR and 144Hz Refresh Rate",
+    "price": 799.99,
+    "category": "Electronics",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "True Wireless Earbuds with Noise Cancellation and Touch Controls",
+    "price": 149.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "High-Capacity SSD",
+    "description": "1TB NVMe PCIe M.2 Internal SSD for High-Speed Data Storage",
+    "price": 149.99,
+    "category": "Computer Accessories",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB Mechanical Gaming Keyboard with Customizable Backlighting",
+    "price": 89.99,
+    "category": "Computer Accessories",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Flagship Smartphone",
+    "description": "256GB Flagship Smartphone with 64MP Camera and 120Hz AMOLED Display",
+    "price": 1199.99,
+    "category": "Mobile Phones",
+    "rating": 4.9,
+    "inStock": false
+  },
+  {
+    "name": "Wireless Charging Stand",
+    "description": "Fast Wireless Charging Stand for Smartphones with Dual Coil Design",
+    "price": 34.99,
+    "category": "Electronics",
+    "rating": 4.2,
+    "inStock": true
+  },
+  {
+    "name": "Ultra-Thin Laptop",
+    "description": "13.3-inch Ultra-Thin Laptop with Intel Core i7 and 16GB RAM",
+    "price": 1099.99,
+    "category": "Computers",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "name": "Waterproof Fitness Band",
+    "description": "Slim Waterproof Fitness Band with OLED Display and Heart Rate Monitoring",
+    "price": 39.99,
+    "category": "Wearables",
+    "rating": 4.3,
+    "inStock": true
+  },
+  {
+    "name": "Smart LED Desk Lamp",
+    "description": "Adjustable Smart LED Desk Lamp with Color Temperature Control",
+    "price": 59.99,
+    "category": "Home Office",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Gaming Controller",
+    "description": "Wireless Gaming Controller for PC and Consoles with Vibration Feedback",
+    "price": 49.99,
+    "category": "Gaming Accessories",
+    "rating": 4.4,
+    "inStock": false
+  },
+  {
+    "name": "Bluetooth Stereo Speakers",
+    "description": "Bluetooth Stereo Speakers with Deep Bass and 360° Sound",
+    "price": 89.99,
+    "category": "Audio",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "name": "Home Security Camera System",
+    "description": "HD Home Security Camera System with Night Vision and Motion Detection",
+    "price": 199.99,
+    "category": "Home Security",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Ergonomic Keyboard and Mouse",
+    "description": "Wireless Ergonomic Keyboard and Mouse Combo with Silent Keys",
+    "price": 79.99,
+    "category": "Computer Accessories",
+    "rating": 4.2,
+    "inStock": true
+  },
+  {
+    "name": "Digital Drawing Tablet",
+    "description": "10-inch Digital Drawing Tablet with Pressure Sensitivity and Pen",
+    "price": 129.99,
+    "category": "Art and Design",
+    "rating": 4.8,
+    "inStock": false
+  },
+  {
+    "name": "Wireless Noise-Cancelling Earphones",
+    "description": "Wireless Noise-Cancelling Earphones with Sweat Resistance for Sports",
+    "price": 79.99,
+    "category": "Electronics",
+    "rating": 4.3,
+    "inStock": true
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "Smart Thermostat with Wi-Fi Connectivity and Energy Saving Features",
+    "price": 129.99,
+    "category": "Smart Home",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Charging Desk Organizer",
+    "description": "Wireless Charging Desk Organizer with Multiple Compartments",
+    "price": 44.99,
+    "category": "Office Accessories",
+    "rating": 4.4,
+    "inStock": true
+  },
+  {
+    "name": "Smart Home Lighting Kit",
+    "description": "Smart Home Lighting Kit with Color-Changing Bulbs and Voice Control",
+    "price": 79.99,
+    "category": "Smart Home",
+    "rating": 4.6,
+    "inStock": false
+  },
+  {
+    "name": "Ultra-Wide Curved Gaming Monitor",
+    "description": "34-inch Ultra-Wide Curved Gaming Monitor with 144Hz Refresh Rate",
+    "price": 899.99,
+    "category": "Electronics",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Charging Car Mount",
+    "description": "Wireless Charging Car Mount for Smartphones with Auto-Clamping Design",
+    "price": 29.99,
+    "category": "Car Accessories",
+    "rating": 4.2,
+    "inStock": true
+  },
+  {
+    "name": "Portable Espresso Maker",
+    "description": "Compact Portable Espresso Maker for On-the-Go Brewing",
+    "price": 59.99,
+    "category": "Kitchen Gadgets",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Smart Wi-Fi Doorbell",
+    "description": "Smart Wi-Fi Doorbell with HD Camera and Two-Way Audio",
+    "price": 149.99,
+    "category": "Home Security",
+    "rating": 4.7,
+    "inStock": false
+  },
+  {
+    "name": "Wireless Charging Bedside Lamp",
+    "description": "Wireless Charging Bedside Lamp with Touch Control and USB Ports",
+    "price": 69.99,
+    "category": "Home Decor",
+    "rating": 4.3,
+    "inStock": true
+  },
+  {
+    "name": "Collapsible Travel Backpack",
+    "description": "Collapsible Travel Backpack with Waterproof Design",
+    "price": 34.99,
+    "category": "Travel Accessories",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Smart Mirror with Voice Assistant",
+    "description": "Smart Mirror with Built-in Voice Assistant and LED Lighting",
+    "price": 199.99,
+    "category": "Home Decor",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "name": "Compact Air Purifier",
+    "description": "Compact Air Purifier with HEPA Filter for Home and Office Use",
+    "price": 79.99,
+    "category": "Home Appliances",
+    "rating": 4.4,
+    "inStock": true
+  },
+  {
+    "name": "Smart Plug with Energy Monitoring",
+    "description": "Smart Plug with Energy Monitoring and Remote Control",
+    "price": 19.99,
+    "category": "Smart Home",
+    "rating": 4.2,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Mechanical Gaming Mouse",
+    "description": "Wireless Mechanical Gaming Mouse with Programmable Buttons",
+    "price": 49.99,
+    "category": "Computer Accessories",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "name": "Portable Solar Charger",
+    "description": "Portable Solar Charger for Outdoor Activities and Emergency Power",
+    "price": 39.99,
+    "category": "Electronics",
+    "rating": 4.3,
+    "inStock": false
+  },
+  {
+    "name": "Smart Water Bottle",
+    "description": "Smart Water Bottle with Hydration Tracking and Reminder",
+    "price": 29.99,
+    "category": "Fitness",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "name": "Mini Projector with Bluetooth Speaker",
+    "description": "Mini Projector with Built-in Bluetooth Speaker for Entertainment",
+    "price": 129.99,
+    "category": "Electronics",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "name": "Wireless Charging Mouse Pad",
+    "description": "Wireless Charging Mouse Pad with RGB Lighting",
+    "price": 24.99,
+    "category": "Computer Accessories",
+    "rating": 4.1,
+    "inStock": true
+  },
+  {
+    "name": "Smart Lock with Fingerprint Recognition",
+    "description": "Smart Lock with Fingerprint Recognition and Mobile App Control",
+    "price": 159.99,
+    "category": "Home Security",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "name": "360-Degree VR Camera",
+    "description": "360-Degree VR Camera for Immersive Video and Photo Capture",
+    "price": 179.99,
+    "category": "Electronics",
+    "rating": 4.4,
+    "inStock": false
+  },
+  {
+    "name": "Wireless Charging Backpack",
+    "description": "Wireless Charging Backpack with Laptop Compartment",
+    "price": 89.99,
+    "category": "Travel Accessories",
+    "rating": 4.3,
+    "inStock": true
+  },
+  {
+    "name": "Smart Home Weather Station",
+    "description": "Smart Home Weather Station with Outdoor Sensors",
+    "price": 109.99,
+    "category": "Smart Home",
+    "rating": 4.5,
+    "inStock": true
+  }
+]
